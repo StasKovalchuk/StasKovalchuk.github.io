@@ -5,3 +5,4 @@
 4. https://staskovalchuk.github.io/robotx/
 5. https://staskovalchuk.github.io/snake/
 6. https://staskovalchuk.github.io/snow/
+7. https://staskovalchuk.github.io/nft-marketplace-showcase/
